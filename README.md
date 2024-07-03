@@ -1,4 +1,4 @@
-<h2 align="left">Oi Prazer sou AnonnyTTS 👍</h2>
+<h2 align="left">Oi sou AnonnyTTS 👍</h2>
 
 ###
 

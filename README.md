@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Eu sou do Canadá<br><br>🔭 Estou trabalhando Desenvolvendo <br>📚 Atualmente estou aprendendo HTML<br>⚡No meu tempo livre eu me divertir</p>
+<p align="left">Eu sou do Canadá<br><br>🔭 Estou trabalhando Desenvolvendo <br>📚 Atualmente estou aprendendo HTML<br>⚡No meu tempo livre eu durmo</p>
 
 ###
 
